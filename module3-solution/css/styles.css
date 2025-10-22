@@ -1,0 +1,19 @@
+/* Custom styles for Module 3 */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.8em;
+}
+
+/* Make the section tall enough to require scrolling */
+.tall-section {
+    min-height: 1200px;
+}
+
+/* Additional spacing */
+.container {
+    margin-bottom: 50px;
+}
